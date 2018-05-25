@@ -1,1 +1,1 @@
-this exercises are mostly created with unity 5.5
+requires unity 5.5
